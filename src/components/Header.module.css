@@ -1,0 +1,16 @@
+header {
+  margin-bottom: 2.563rem;
+}
+
+.li{
+  list-style: none;
+  margin-right: 2.063rem;
+  display: flex;
+  align-items: center;
+}
+
+.ul{
+  display: flex;
+  padding: 0;
+}
+

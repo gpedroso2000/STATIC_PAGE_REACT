@@ -1,0 +1,12 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+.divBtn{
+  display: flex;
+  flex-direction: row-reverse;
+  margin-right: 1.813rem;
+}
